@@ -1,13 +1,3 @@
-'''
-
-~ THIS SHIT IS N̶O̶T̶ MADE FOR EDUCATIONAL PURPOSES
-~ USE VPS FOR BEST RESULTS
-~ Fastest Python Discord Vanity Url Stealer on Cord
-~ By RisinPlayZ#1337
-
-
-
-'''
 import os
 import sys
 import asyncio 
